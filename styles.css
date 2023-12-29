@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    height: 50px;
+    width: 100px;
+    flex: 1 1 auto;
+}
+.container > * {
+    margin: 50px;
+    background-color: blue;
+}
