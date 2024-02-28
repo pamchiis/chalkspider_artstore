@@ -77,3 +77,8 @@ h1{
     max-height: 300px;
     object-fit: cover;
 }
+.footer-menu-items{
+    display: flex;
+    width: 90%;
+    justify-content: end;
+}
